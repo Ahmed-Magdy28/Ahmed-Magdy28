@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/ahmedmagdy2849/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Magdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/AhMeDMaGDY284/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Magdy-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://wa.me/201069219119" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Magdy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://twitter.com/AhMeDMaGDY1428" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Ahmed%20Magdy?style=for-the-badge&logo=X&labelColor=blue&color=blue"></a>
+<a href="https://twitter.com/AhMeDMaGDY1428" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Ahmed%20Magdy?style=for-the-badge&logo=X&logoColor=white"></a>
 
 
 
