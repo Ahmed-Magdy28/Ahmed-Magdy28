@@ -11,10 +11,10 @@
 </p>
 
 - 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with C, Python, JavaScript, HTML, CSS, Nodejs, SQL, MySQL, Typescript, Dart.
+- 👨‍💻 I constantly learn and explore new technologies to improve my skills.
+- 💬 Ask me about my experience with C, Python, JavaScript, HTML, CSS, Nodejs, SQL, MySQL, Typescript, Dart, Flutter.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 I'm Training in ALX as Software Engineer and improving my Soft Skills
+- 👨‍💻 I'm Training in ALX as a Software Engineer and improving my Soft Skills and in Digitect for work experience
 
 ### Connect with Me
 
