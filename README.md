@@ -72,8 +72,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Magdy28&theme=dark" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Magdy28&theme=darkhub" width="100%"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Magdy28&show_icons=true&theme=radical" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Magdy28&layout=compact&theme=radical" width="100%"/>
